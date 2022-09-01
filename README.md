@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+# 🕹 Todo List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🎥 배포
 
-## Available Scripts
+👉 [배포링크](https://todo-best-practice-fe-5.netlify.app/)
+<br />
 
-In the project directory, you can run:
+## 👨‍👩‍👦‍👦 팀원 소개
 
-### `npm start`
+| 👨‍💻성민규                                   | 👩‍💻김초연                                   | 👩‍💻박세리                                       | 👨‍💻임상빈                                       |
+| ------------------------------------------ | ------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| [@sming0112](https://github.com/sming0112) | [@vnfdusdl](https://github.com/vnfdusdl)   | [@seriparkdev](https://github.com/seriparkdev) | [@YSBINN](https://github.com/YSBINN)           |
+| 👨‍💻이재하                                   | 👨‍💻김성용                                   | 👩‍💻최소희                                       | 👨‍💻김민석                                       |
+| [@Leejha](https://github.com/Leejha)       | [@LoggingCo](https://github.com/LoggingCo) | [@huisso97](https://github.com/huisso97)       | [@conqueror-G](https://github.com/conqueror-G) |
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 기술 스택
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<div align="center">
+  <img src="https://img.shields.io/badge/react-18.2.0-61DAFB?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/TypeScript-4.8.2-3178C6?style=flat-square&logo=TypeScript"/> <img src="https://img.shields.io/badge/ReactRouter-6.3.0-CA4245?style=flat-square&logo=ReactRouter"/> <img src="https://img.shields.io/badge/styledComponents-3.1.8-DB7093?style=flat-square&logo=styledComponents"/>
 
-### `npm test`
+[![GitHub Open PR](https://img.shields.io/github/issues-pr-raw/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice?color=green)](https://github.com/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice/pulls) [![GitHub Closed PR](https://img.shields.io/github/issues-pr-closed-raw/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice?color=red)](https://github.com/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice/pulls?q=is%3Apr+is%3Aclosed) [![GitHub Open PR](https://img.shields.io/github/issues-raw/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice?color=green)](https://github.com/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice/issues) [![GitHub Closed PR](https://img.shields.io/github/issues-closed-raw/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice?color=red)](https://github.com/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice/issues?q=is%3Aissue+is%3Aclosed)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `npm run build`
+## 🙋‍♂️ 프로젝트 소개
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+일정을 관리할 수 있는 웹 애플리케이션
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 서비스 특징
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   일정을 등록하거나 수정하거나 삭제할 수 있습니다.
 
-### `npm run eject`
+## 📌 프로젝트 설치 및 시작
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### 프로젝트 클론
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```shell
+$ git clone https://github.com/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### 패키지 설치
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```shell
+$ npm install
+```
 
-## Learn More
+#### 서버 실행
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```shell
+$ npm run start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📖 [Wiki](https://github.com/wanted-pre-onboarding-frontend-6/wanted-pre-onboard-fe-5-best-practice/wiki)
