@@ -1,9 +1,13 @@
+import Router from 'router';
+import { ThemeProvider } from 'styled-components';
+import { theme } from 'styles/theme';
+
 function App() {
-  return (
-    <div className="App">
-      :)
-    </div>
-  );
+    return (
+        <ThemeProvider theme={theme}>
+            <Router />
+        </ThemeProvider>
+    );
 }
 
 export default App;
